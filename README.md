@@ -12,6 +12,8 @@ This project is a comprehensive Business Intelligence solution designed to analy
 ## 🗂️ Dashboard Structure
 1. **Executive Overview:** A high-level view of KPIs ($1.08M Total Sales) and category performance.
 
+2. [Dashboard Preview](dashboard_preview.png)
+
 
 <img width="800" height="482" alt="image" src="https://github.com/user-attachments/assets/106750dd-1620-4d35-bd36-db682ebc3eb9" />
 
